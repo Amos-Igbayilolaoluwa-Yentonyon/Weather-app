@@ -13,7 +13,7 @@ const Weatherui = () => {
       <div className='displayCard'>
         {/* <div> */}
         <div className='weatherIcon'>
-        <img src="../assets/weathericon.jpg" alt="" />
+        <img src="/weathericon.jpg" alt="" />
         </div>
         <div className='weatherInfo'>
           <div>
