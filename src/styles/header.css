@@ -1,0 +1,35 @@
+header{
+    width: 100%;
+    height: 80%;
+    background-color: skyblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+h1{
+    font-family: Montserrat;
+    font-size: 30px;
+    font-weight: 700;
+    color: white;
+}
+.inputHolder{
+    width: 22%;
+    height: 30%;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row-reverse;
+    border-radius: 10px;
+    gap: 20px;
+    /* margin-left: 10%; */
+}
+input{
+    
+    border: none;
+    outline: none;
+    font-family: public sans;
+    font-size: 16px;
+
+}
